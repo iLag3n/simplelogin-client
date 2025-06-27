@@ -1,0 +1,7 @@
+API_KEY = ""
+FORWARD_TO = ["email@exemple.com"]
+HOSTNAME = ""
+NOTE = ""
+DOMAIN = ""
+PREMIUM_ONLY = true
+FREE_ONLY = false
